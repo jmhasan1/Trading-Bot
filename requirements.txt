@@ -1,0 +1,4 @@
+
+pytest
+dotenv
+python-binance
